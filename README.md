@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevenhultgren .
 - 👀 I’m interested in Computer Aided Drafting and Design, Piping Design, programming
 - 🌱 I’m currently learning Python on Debian Linux.
-- 💞️ I’m looking to collaborate on nothing because I know nothing,
+- 💞️ I’m looking to collaborate on nothing right now because I know nothing,
 - 📫 Please contact me about how little I know,
 
 <!---
